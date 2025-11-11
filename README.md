@@ -9,6 +9,9 @@ It includes data cleaning and exploration in Python, SQL analysis in PostgreSQL,
 
 The objective was to identify the main drivers behind customer spending, loyalty, and satisfaction, while providing actionable recommendations for improving sales and retention.
 
+📸 Dashboard Preview
+![Sales Dashboard](assets/pasted-image.jpeg)
+
 📂 Dataset
 
 The dataset contains detailed information about customer profiles, transactions, and reviews, including:

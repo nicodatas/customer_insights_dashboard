@@ -9,6 +9,7 @@ It includes data cleaning and exploration in Python, SQL analysis in PostgreSQL,
 
 The objective was to identify the main drivers behind customer spending, loyalty, and satisfaction, while providing actionable recommendations for improving sales and retention.
 
+[VIEW INTERACTIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYTQ2MTJmOWYtOGUzMi00YzJhLTk3OGUtMzg0OTNiN2IzMGI2IiwidCI6ImZmNTk4ODcwLWQ3MjEtNDkyOS1hZTBiLTliYWZiYzA0ZGYyZCIsImMiOjR9)
 📸 Dashboard Preview
 ![Sales Dashboard](assets/pasted-image.jpeg)
 
